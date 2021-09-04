@@ -1,0 +1,7 @@
+
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(İ¸¹8Éù»¹î.
+
+java:S1319"sThe type of the "produtos" object should be an interface such as "List" rather than the implementation "ArrayList".(”ï£ğ8¢—Åôî.
+’
+java:S1319"pThe type of the "itens" object should be an interface such as "List" rather than the implementation "ArrayList".(Îßàøÿÿÿÿ8®‚Ãôî.

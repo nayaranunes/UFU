@@ -1,0 +1,20 @@
+
+g
+java:S1192["LDefine a constant instead of duplicating this literal "JOptionPane" 3 times.(äüÁËøÿÿÿÿ
+m
+java:S1192_"WDefine a constant instead of duplicating this literal "Erro ao adicionar Item" 3 times.(®½›á
+`	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(’ÈòÕúÿÿÿÿ
+[	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(áÔæÉ
+`	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(Ü•£úÿÿÿÿ
+`	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(±¹¢øşÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+O
+java:S1854c"9Remove this useless assignment to local variable "vend2".(¥Äû„
+O
+java:S1854m"9Remove this useless assignment to local variable "vend3".(¹Õµ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ù Ùÿÿÿÿÿ
+@
+java:S1481c"*Remove this unused "vend2" local variable.(¥Äû„
+@
+java:S1481m"*Remove this unused "vend3" local variable.(¹Õµ

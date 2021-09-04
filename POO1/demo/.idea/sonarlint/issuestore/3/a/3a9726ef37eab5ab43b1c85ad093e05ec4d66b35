@@ -1,0 +1,10 @@
+
+[	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(’‘–Ç
+`	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(‡çíÿÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+V
+java:S1854=";Remove this useless assignment to local variable "nayara2".(ÖääØøÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ı¤éÂıÿÿÿÿ
+G
+java:S1481=",Remove this unused "nayara2" local variable.(ÖääØøÿÿÿÿ
