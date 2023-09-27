@@ -1,2 +1,2 @@
-# Cálculo 3 - Prof: Adilson
+# Cálculo - Prof: Adilson
 Matrícula: 11911BCC006
